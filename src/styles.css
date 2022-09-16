@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todo-main {
+  margin-top: 100px;
+}
+.todo-button {
+  height: 40px;
+  width: max-content;
+  border: none;
+  border-radius: 5px;
+  box-shadow: -4px 9px 74px -25px rgba(0, 0, 0, 0.75);
+  background-color: darkcyan;
+  color: white;
+  font-size: 16px;
+}
+.todo-input {
+  height: 30px;
+  width: 200px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+.todo-list {
+  margin-top: 10px;
+  margin-left: 160px;
+  background-color: chocolate;
+  list-style-type: none;
+  width: 400px;
+  height: 60px;
+  width: max-content;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  line-height: 60px;
+  border-radius: 5px;
+  color: white;
+  font-size: 35px;
+}
+.main .button {
+}
